@@ -6,11 +6,10 @@ Repositorio del grupo. Partir de este esqueleto. No borrar la estructura de `src
 
 | Nombre | Mail | GitHub |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Ludmila Laborde | ludmiyazmin93@gmail.com | ludmi9813 |
+| Jessica Campos |camposjessicaconstanza@gmail.com  | camposjessicaconstanza-coder |
 
-**Tema elegido:** Pokédex / Recetario / Biblioteca musical (dejar uno)
+**Tema elegido:** Biblioteca musical
 
 ## Cómo ejecutar
 
